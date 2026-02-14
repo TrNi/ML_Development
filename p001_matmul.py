@@ -1,5 +1,5 @@
 '''
-Matrix Multiplication
+p001. Matrix Multiplication
 
 Question:
 Implement matrix multiplication without using NumPy or any linear algebra libraries.
